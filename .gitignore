@@ -6,4 +6,14 @@ venv_*/
 .vs/
 .vscode/
 .idea/
-
+out/
+*.pth
+*.pt
+*.safetensors
+*.bin
+*.json
+*.svg
+*.png
+*.txt
+external/checkpoints/marigold-lcm-v1-0/README.md
+external/checkpoints/marigold-lcm-v1-0/.gitattributes
